@@ -1,4 +1,4 @@
-** End User **
+**End User**
 
 1. Search for software.
 2. Read software license.
