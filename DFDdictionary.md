@@ -4,7 +4,9 @@
 Developers
 
 You- Developer
+
 Decide why open source- reasons for creating OSS.
+
 Creating software- Development of OSS.
 
 Managers DFD
