@@ -5,34 +5,34 @@
 
 
 
-*You- Developer
+*You- Developer*
 
-*Decide why open source- reasons for creating OSS.
+*Decide why open source- reasons for creating OSS.*
 
-*Creating software- Development of OSS.
-
-
-
-**Managers DFD
+*Creating software- Development of OSS.*
 
 
 
-*You- The manager.
-
-*Searching for license- License search to OSS.
-
-*Provide developer guide & end user documentation- information manager can access regarding OSS.
-
-*Diamond symbol- deciding whether license is good or not.
+**Managers DFD**
 
 
 
-**End User
+*You- The manager.*
+
+*Searching for license- License search to OSS.*
+
+*Provide developer guide & end user documentation- information manager can access regarding OSS.*
+
+*Diamond symbol- deciding whether license is good or not.*
 
 
 
-*You- End user.
+**End User**
 
-*Search for software- Browse the OSS.
 
-*Read software & open source license- Launch OSS and accept licenses.
+
+*You- End user.*
+
+*Search for software- Browse the OSS.*
+
+*Read software & open source license- Launch OSS and accept licenses.*
